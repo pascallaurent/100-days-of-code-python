@@ -1,0 +1,1 @@
+[Projects requirements](https://repl.it/@tipizo/band-name-generator-start#main.py)
