@@ -1,2 +1,1 @@
-# 100-days-of-code-python
-100 days of code with python
+# 100 days of code with python
